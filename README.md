@@ -1,2 +1,0 @@
-# Escavonia
-Server
